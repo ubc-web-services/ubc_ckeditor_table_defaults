@@ -1,0 +1,6 @@
+name = UBC CKEditor Table Defaults
+description = Plugin to adjust CKEditor's default table widget settings (remove table width, borders, etc).
+package = UBC IT Web Services
+
+core = 7.x
+dependencies[] = ckeditor
